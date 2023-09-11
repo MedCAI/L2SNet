@@ -1,23 +1,13 @@
 # S2UNet for AutoPET-II challenge
 
-> **Authors:** 
-> [A](), 
-> [B](), 
-> [C](), and 
-> [D]().
-
 ## 1. Introduction
 
-This is an introduction!
+Introduction!
 
 ## 2. Methods
 
-This is Methods!
+Methods!
 
-## 3. Experiments and Results
+## 3. Results
 
-This is Experiments and Results!
-
-## 4. Conclusion
-
-This is a Conclusion!
+Results!
