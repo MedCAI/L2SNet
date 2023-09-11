@@ -1,4 +1,4 @@
-# L2SNet for AutoPET-II challenge
+# A Localization-to-Segmentation Framework for automatic tumor segmentation in PET/CT images
 
 ## 1. Introduction
 
@@ -30,6 +30,26 @@ As shown in Fig. 2, the proposed L2SNet consists of two phases, namely the lesio
 
 We introduce a localization-to-segmentation framework for the [MICCAI 2023 AutoPET-II challenge](https://autopet-ii.grand-challenge.org/). The current ranking of our results can be found on the [leaderboard](https://autopet-ii.grand-challenge.org/evaluation/challenge/leaderboard/).
 
-## 4. License
+## 4. Citation (Pending)
+
+If you wish to cite this work, feel free to use this BibTeX reference:
+
+```bibtex
+@article{cai2023l2snet,
+    title={A Localization-to-Segmentation framework for automatic tumor segmentation in whole-body PET/CT images},
+    author={Linghan Cai, Jianhao Huange, Zihang Zhu, Jinpeng Lu, Yongbing Zhang},
+    year={2023},
+    month={September},
+    publisher = {arxiv:pending},
+}
+```
+
+## 5. Contributing
+
+Thanks to the following work for improving our project：
+- AutoPET-II: [https://autopet-ii.grand-challenge.org/](AutoPET-II)
+- nnUNet: [https://github.com/MIC-DKFZ/nnUNet/tree/master/nnunetv2](nnUNet)
+  
+## 6. License
 
 The source code is free for research and education use only. Any comercial use should get formal permission first.
