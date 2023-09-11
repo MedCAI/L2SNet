@@ -28,4 +28,4 @@ As shown in Fig. 2, the proposed L2SNet consists of two phases, namely the lesio
 
 ## 3. Conclusion
 
-We introduce a localization-to-segmentation framework for the [MICCAI 2023 AutoPET-II challenge](https://autopet-ii.grand-challenge.org/). The current ranking of our results can be found on the [leaderboard](https://autopet-ii.grand-challenge.org/evaluation/challenge/leaderboard/)
+We introduce a localization-to-segmentation framework for the [MICCAI 2023 AutoPET-II challenge](https://autopet-ii.grand-challenge.org/). The current ranking of our results can be found on the [leaderboard](https://autopet-ii.grand-challenge.org/evaluation/challenge/leaderboard/).
