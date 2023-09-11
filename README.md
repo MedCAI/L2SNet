@@ -6,6 +6,13 @@ Flouro Deoxy Glucose (FDG) positron emission tomography (PET) combined with comp
 
 Despite the availability of advanced methods, precise tumor segmentation in PET/CT images remains a challenging task, for two significant reasons: (i) The small size of most tumors poses a difficulty for localizing these abnormal regions (shown in the first sample of Fig. 1). (ii) As shown in the second sample of Fig. 1, some tumors are adjacent to normal high-uptake regions, causing existing segmentation methods to over-segment the abnormal regions and incorporate areas such as normal high-uptake organs, inflammation, and other infections into the identified tumor regions. Hence, a segmentation method that can accurately localize the tumors and outline their boundaries is urgent for PET/CT image analysis.
 
+<p align="center">
+    <img src="imgs/challenges-in-automatic-tumor-segmentation.png"/> <br />
+    <em> 
+    Fig. 1. Visual illustration of the challenges in automatic tumor segmentation in whole-body PET/CT images. The red region represents the tumor area.
+    </em>
+</p>
+
 ## 2. Methods
 
 Methods!
