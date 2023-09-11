@@ -33,5 +33,3 @@ We introduce a localization-to-segmentation framework for the [MICCAI 2023 AutoP
 ## 4. License
 
 The source code is free for research and education use only. Any comercial use should get formal permission first.
-
----
