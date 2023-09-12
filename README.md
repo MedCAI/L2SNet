@@ -47,8 +47,8 @@ If you wish to cite this work, feel free to use this BibTeX reference:
 ## 5. Contributing
 
 Thanks to the following work for improving our project：
-- AutoPET-II: [https://autopet-ii.grand-challenge.org/](AutoPET-II)
-- nnUNet: [https://github.com/MIC-DKFZ/nnUNet/tree/master/nnunetv2](nnUNet)
+- AutoPET-II (dataset): [https://autopet-ii.grand-challenge.org/](AutoPET-II)
+- nnUNet (framework): [https://github.com/MIC-DKFZ/nnUNet/tree/master/nnunetv2](nnUNet)
   
 ## 6. License
 
