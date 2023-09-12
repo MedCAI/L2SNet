@@ -30,7 +30,7 @@ As shown in Fig. 2, the proposed L2SNet consists of two phases, namely the lesio
 
 We introduce a localization-to-segmentation framework for the [MICCAI 2023 AutoPET-II challenge](https://autopet-ii.grand-challenge.org/). The current ranking of our results can be found on the [leaderboard](https://autopet-ii.grand-challenge.org/evaluation/challenge/leaderboard/).
 
-## 4. Citation (Pending)
+## 4. Citation
 
 If you wish to cite this work, feel free to use this BibTeX reference:
 
@@ -40,7 +40,7 @@ If you wish to cite this work, feel free to use this BibTeX reference:
     author={Linghan Cai, Jianhao Huange, Zihang Zhu, Jinpeng Lu, Yongbing Zhang},
     year={2023},
     month={September},
-    publisher = {arxiv:pending},
+    journal={arXiv preprint arXiv:2309.05446},
 }
 ```
 
