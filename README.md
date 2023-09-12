@@ -1,5 +1,5 @@
 # A Localization-to-Segmentation Framework for automatic tumor segmentation in PET/CT images
-
+Address: [http://arxiv.org/abs/2309.05446](L2SNet) 
 ## 1. Introduction
 
 Flouro Deoxy Glucose (FDG) positron emission tomography (PET) combined with computed tomography (CT) is considered the preferred imaging modality for diagnosing, staging, and monitoring the treatment responses in various cancers, such as lung cancer and melanoma. This choice arises from PET/CT’s ability to leverage the high sensitivity of PET in localizing abnormal tissue function and the specificity of CT in mapping lesions. Tumor segmentation is an essential step in PET/CT quantitative analysis. However, manual annotation is time-consuming and complicated in the clinic, which limits the effect of PET/CT examination. Fortunately, the development of deep learning gives rise to many automatic tumor segmentation algorithms, which have achieved promising performance in whole-body PET/CT image segmentation.
