@@ -37,7 +37,7 @@ If you wish to cite this work, feel free to use this BibTeX reference:
 ```bibtex
 @article{cai2023l2snet,
     title={A Localization-to-Segmentation framework for automatic tumor segmentation in whole-body PET/CT images},
-    author={Linghan Cai, Jianhao Huange, Zihang Zhu, Jinpeng Lu, Yongbing Zhang},
+    author={Linghan Cai, Jianhao Huang, Zihang Zhu, Jinpeng Lu, Yongbing Zhang},
     year={2023},
     month={September},
     journal={arXiv preprint arXiv:2309.05446},
